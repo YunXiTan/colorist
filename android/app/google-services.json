@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493173768303",
+    "project_id": "colorist-tyx",
+    "storage_bucket": "colorist-tyx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493173768303:android:d2c4aaf438069469634d9a",
+        "android_client_info": {
+          "package_name": "com.colorist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJf3cKjIEZvezIklZzs38i9jof6okJWQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493173768303:android:b71dc561ba496a46634d9a",
+        "android_client_info": {
+          "package_name": "com.example.colorist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJf3cKjIEZvezIklZzs38i9jof6okJWQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
